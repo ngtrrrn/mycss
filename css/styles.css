@@ -1,1 +1,16 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
 
+.box1 {
+  background: orange;
+}
+
+.box2 {
+  background: skyblue;
+}
+
+.box3 {
+  background: tomato;
+}
